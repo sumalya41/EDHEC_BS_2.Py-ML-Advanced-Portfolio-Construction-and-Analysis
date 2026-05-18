@@ -4,11 +4,6 @@
 
 These files should be in the same level where you have your data folder.
 
-Please send any comments, bugs (or bug fixes!) to vijay@OptimalAM.com and I'll incorporate in the next version.
-
-This is the beta test version v03 19_01_2021
-
-The amendents in v03 with respect to v02 are:
 
 1.	lab_203: to give the width of the rolling window we have to use the number of months. In the previous version there was the number of days written as string but it was not working.
 					 
